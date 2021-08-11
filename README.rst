@@ -1,3 +1,7 @@
+.. note::
+   This repo is **DEPRECATED**. Go to the `new QAX repo <https://github.com/ausseabed/qax>`_.
+
+
 HydrOffice QAX
 ==============
 
